@@ -2,7 +2,8 @@
 <h3 align="center">DevOps Engineer</h3>
 
 
-### :man_technologist: Summary: As an experienced DevOps Engineer with a passion for automation and process improvement, I have a record of accomplishment of designing, implementing, and maintaining robust and scalable infrastructure that drives business success. With expertise in Azure, Terraform, Git, Docker, Kubernetes, and CI/CD pipeline development, I am committed to delivering high-quality software faster and more efficiently. With a strong focus on collaboration and continuous improvement, I am confident in my ability to contribute to any team and help drive innovation and growth. My goal is to work with a team of like-minded professionals to deliver high-quality software faster and more efficiently, while continuously improving our processes and systems.
+### :man_technologist: Summary: 
+<h5 align="left">As an experienced DevOps Engineer with a passion for automation and process improvement, I have a record of accomplishment of designing, implementing, and maintaining robust and scalable infrastructure that drives business success. With expertise in Azure, Terraform, Git, Docker, Kubernetes, and CI/CD pipeline development, I am committed to delivering high-quality software faster and more efficiently. With a strong focus on collaboration and continuous improvement, I am confident in my ability to contribute to any team and help drive innovation and growth. My goal is to work with a team of like-minded professionals to deliver high-quality software faster and more efficiently, while continuously improving our processes and systems.</h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
