@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <div>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/aliakseikastsiuk/" target="_blank"><img align="center" src="https://github.com/AlekseiKastsiuk/AlekseiKastsiuk/blob/main/Images/linkedin.png" alt="https://www.linkedin.com/in/aliakseikastsiuk/" height="40" width="40" /></a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/aliakseikastsiuk/" target="_blank"><img align="center" src="https://github.com/AlekseiKastsiuk/AlekseiKastsiuk/blob/main/Images/linkedin1.png" alt="https://www.linkedin.com/in/aliakseikastsiuk/" height="40" width="40" /></a>
     <a href="https://t.me/mraleksel" target="_blank"><img align="center" src="https://github.com/AlekseiKastsiuk/AlekseiKastsiuk/blob/main/Images/telegram.png" alt="Telegram" height="40" width="40" /></a>
     <a href="mailto:aleksei.kastsiuk@gmail.com" target="_blank"><img align="center" src="https://github.com/AlekseiKastsiuk/AlekseiKastsiuk/blob/main/Images/gmail.png" alt="Gmail" height="40" width="40" /></a>
 
