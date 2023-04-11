@@ -6,7 +6,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aliakseikastsiuk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aliakseikastsiuk/" height="30" width="40" /></a>
 
-<a href="https://t.me/mraleksel" target="blank"><img align="center" src="https://telegram.org/" alt="https://t.me/mraleksel" height="30" width="40" /></a>
+<a href="https://t.me/mraleksel" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" /></a>
+
 
 </p>
 
